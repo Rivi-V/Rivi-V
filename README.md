@@ -16,17 +16,6 @@ Currently, I’m growing in <b>ML engineering</b>, deepening my knowledge of mat
 
 </div>
 
----
-
-## About Me
-
-- Applied Mathematics and Computer Science student
-- Interested in Machine Learning, data analysis, and algorithms
-- Strong attention to structure, logic, and problem decomposition
-- Actively improving practical ML skills and problem-solving ability
-- Interested in combining mathematical thinking with real-world ML tasks
-
----
 
 ## LeetCode
 
@@ -38,7 +27,6 @@ Currently, I’m growing in <b>ML engineering</b>, deepening my knowledge of mat
 
 </div>
 
----
 
 ## Contact
 
